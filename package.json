@@ -1,0 +1,8 @@
+{
+  "name": "base-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MaykonLacerda/base-frontend.git",
+  "author": "Maykon Lacerda <maykon@smartinnovation.com.br>",
+  "license": "MIT"
+}
